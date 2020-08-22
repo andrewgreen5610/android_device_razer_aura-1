@@ -7,8 +7,8 @@
 
 set -e
 
-DEVICE=dipper
-VENDOR=xiaomi
+DEVICE=bolt
+VENDOR=razer
 
 INITIAL_COPYRIGHT_YEAR=2018
 
